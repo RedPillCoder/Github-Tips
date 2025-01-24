@@ -17,7 +17,7 @@
 
 ## Advanced GitHub Features
 - **Blame Feature**: Use the "Blame" button to track changes in a file and see who last worked on it.
-- **Fuzzy File Finder**: Press 't' in any repository to access the fuzzy file finder, allowing you to quickly search for and locate files by typing part of their name.
+- **Fuzzy File Finder**: Press `t` in any repository to access the fuzzy file finder, allowing you to quickly search for and locate files by typing part of their name.
 
 ## File and Repository Support
 - **Diverse File Types**: GitHub can save and render images, 3D (STL) files, and PDFs in addition to code.
