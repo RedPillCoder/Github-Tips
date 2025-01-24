@@ -23,7 +23,7 @@
 
 ## Security and Best Practices
 - **Secret Management**: Always store secrets outside of your source code and never commit them to any repository.
-- **Licensing**: Always consider proper code licensing using (choosealicense.com).
+- **Licensing**: Always consider proper code licensing using ([choosealicense.com](https://choosealicense.com/)).
 
 ## Additional Pro Tips
 - Use GitHub Actions to automate various tasks like creating issues, generating release notes, and managing project workflows.
