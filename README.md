@@ -16,7 +16,6 @@
 
 ## Advanced GitHub Features
 - **Blame Feature**: Use the "Blame" button to track changes in a file and see who last worked on it.
-- **URL Shortener**: Use https://git.io to create shorter URLs for your GitHub repositories.
 
 ## File and Repository Support
 - **Diverse File Types**: GitHub can save and render images, 3D (STL) files, and PDFs in addition to code.
