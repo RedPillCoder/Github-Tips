@@ -8,6 +8,7 @@
 ## Browser Extensions and Plugins
 - **Octotree**: A browser extension that helps you navigate GitHub repositories with an easy-to-read tree-based file structure.
 - **Mention Highlighter**: A plugin that makes it easier to spot when you're mentioned in comments or issues.
+- **Notifier for GitHub**: A browser extension that displays the number of unread notifications in your toolbar and can enable desktop notifications, helping you stay updated on important changes or mentions.
 
 ## Collaboration and Interaction
 - **Video Uploads**: GitHub allows uploading .mp4 and .mov files to issues, pull requests, and discussion comments (under 100MB).
@@ -16,6 +17,7 @@
 
 ## Advanced GitHub Features
 - **Blame Feature**: Use the "Blame" button to track changes in a file and see who last worked on it.
+- **Fuzzy File Finder**: Press 't' in any repository to access the fuzzy file finder, allowing you to quickly search for and locate files by typing part of their name.
 
 ## File and Repository Support
 - **Diverse File Types**: GitHub can save and render images, 3D (STL) files, and PDFs in addition to code.
@@ -26,4 +28,4 @@
 - **Licensing**: Always consider proper code licensing using ([choosealicense.com](https://choosealicense.com/)).
 
 ## Additional Pro Tips
-- Use GitHub Actions to automate various tasks like creating issues, generating release notes, and managing project workflows.
+- Use GitHub Actions to automate various tasks like creating issues, generating release notes, and managing project workflows
