@@ -8,7 +8,7 @@
 ## Browser Extensions and Plugins
 - **Octotree**: A browser extension that helps you navigate GitHub repositories with an easy-to-read tree-based file structure.
 - **Mention Highlighter**: A plugin that makes it easier to spot when you're mentioned in comments or issues.
-- **Notifier for GitHub**: A browser extension that displays the number of unread notifications in your toolbar and can enable desktop notifications, helping you stay updated on important changes or mentions.
+- **Notifier for GitHub**: A browser extension (https://github.com/sindresorhus/notifier-for-github) that displays the number of unread notifications in your toolbar and can enable desktop notifications, helping you stay updated on important changes or mentions. 
 
 ## Collaboration and Interaction
 - **Video Uploads**: GitHub allows uploading .mp4 and .mov files to issues, pull requests, and discussion comments (under 100MB).
