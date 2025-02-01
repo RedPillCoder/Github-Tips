@@ -18,6 +18,7 @@
 ## Advanced GitHub Features
 - **Blame Feature**: Use the "Blame" button to track changes in a file and see who last worked on it.
 - **Fuzzy File Finder**: Press `t` in any repository to access the fuzzy file finder, allowing you to quickly search for and locate files by typing part of their name.
+- **Web-based Editor Shortcut**: Press the period (.) key on any GitHub repository page to open the github.dev web-based editor in the same browser tab. This works on both Windows and macOS.
 
 ## File and Repository Support
 - **Diverse File Types**: GitHub can save and render images, 3D (STL) files, and PDFs in addition to code.
@@ -28,4 +29,4 @@
 - **Licensing**: Always consider proper code licensing using ([choosealicense.com](https://choosealicense.com/)).
 
 ## Additional Pro Tips
-- Use GitHub Actions to automate various tasks like creating issues, generating release notes, and managing project workflows
+- Use GitHub Actions to automate various tasks like creating issues, generating release notes, and managing project workflows.
