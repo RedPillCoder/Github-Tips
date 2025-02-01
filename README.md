@@ -1,6 +1,3 @@
-
-
-
 # Useful-Github-Tips
 
 ## Repository Management
