@@ -6,8 +6,8 @@
 - **Clone Repositories**: Use `git clone` to quickly copy repositories, including options like cloning a single branch.
 
 ## Browser Extensions and Plugins
-- **Octotree**: A browser extension that helps you navigate GitHub repositories with an easy-to-read tree-based file structure.
-- **Mention Highlighter**: A plugin that makes it easier to spot when you're mentioned in comments or issues.
+- **[Octotree](https://github.com/ovity/octotree)**: A browser extension that helps you navigate GitHub repositories with an easy-to-read tree-based file structure.
+- **[Mention Highlighter](https://github.com/benbalter/github-mention-highlighter)**: A plugin that makes it easier to spot when you're mentioned in comments or issues.
 - **[Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)**: A browser extension that displays unread notifications in your toolbar and enables desktop notifications for updates.
 
 ## Collaboration and Interaction
